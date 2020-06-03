@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Vivek",
+        "city":"Haryana",
+        "age":20,
+        "imgUrl":"/Images/3.jpg"
+    },
+    {
+        "name":"Devansh",
+        "city":"Delhi",
+        "age":24,
+        "imgUrl":"/Images/2.jpg"
+    },
+    {
+        "name":"Sagar",
+        "city":"Noida",
+        "age":39,
+        "imgUrl":"/Images/1.jpg"
+    }
+]
